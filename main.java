@@ -1,9 +1,4 @@
 import java.util.ArrayList;
-
-/*
- * Mini Student Management System
- * Demonstrates: Classes, Objects, Encapsulation, Inheritance, Polymorphism, Methods, Loops, Recursion
- */
 class Student {
     private String name;
     private int age;
