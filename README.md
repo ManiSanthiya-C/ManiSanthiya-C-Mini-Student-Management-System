@@ -30,3 +30,12 @@ A **console-based Student Management System** in Java demonstrating OOPs concept
 --->
 
 ## **Sample Output**
+
+============================
+STUDENT LIST
+
+Shona | Age: 21 | Marks: 95
+
+Angel | Age: 22 | Marks: 98 | Degree: M.Tech
+
+Arun | Age: 20 | Marks: 90
